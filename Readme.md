@@ -1,7 +1,8 @@
 # This Repo contains code to scrap leads from apollo
 
-## apollo_people_from_company.py
+## 1. apollo_people_from_company.py
 Extracts company top people from given list of companies.
+Make Necessary changes before running the script.
 Requirements:
 1. company.csv file with minimum CSV Schema -> (company_name,website)
 2. Need to have apollo logged in , in chrome.
